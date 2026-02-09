@@ -1,7 +1,7 @@
 # Power BI E-commerce Sales & Profit Dashboard
 
 ## Project Overview
-This project presents an interactive Power BI dashboard analyzing e-commerce sales, profit, and loss trends over a one-year period.
+The Power BI dashboard is shared as a PDF export for easy viewing.
 
 ## Dataset
 The dataset contains transactional sales data including revenue, cost, profit, and profit margin by month.
