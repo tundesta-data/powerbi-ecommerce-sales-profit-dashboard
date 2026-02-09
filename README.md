@@ -24,3 +24,10 @@ The dataset contains transactional sales data including revenue, cost, profit, a
 ## Conclusion
 The analysis highlights the need for improved cost control, pricing strategy review, and better monitoring of monthly profitability.
 
+## Business Recommendations
+- Review pricing and discount strategies during loss-making months
+- Implement stricter cost control measures
+- Monitor profit margin monthly, not just revenue
+- Investigate operational issues causing losses in peak sales periods
+
+
